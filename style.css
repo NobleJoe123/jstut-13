@@ -6,7 +6,7 @@
 
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to right, #e22865, #37adcd);
+    background-image:  linear-gradient(90deg, rgb(56, 48, 202) 4%, rgb(61, 61, 148) 51%, rgba(20,80,159,1) 100%);
     color: white;
 }
 .container{
@@ -48,8 +48,8 @@ body{
 
 
 .user-input input:focus{
-    box-shadow: 0 0 5px #e22865;
-    border: 1px solid #e22865;
+    box-shadow: 0 0 5px #282be2;
+    border: 1px solid #282be2;
 }
 
 
@@ -96,8 +96,8 @@ body{
 } 
 
 .item:hover{
-    box-shadow: 0 0 20px #e22865;
-    border: 1px solid #e22865;
+    box-shadow: 0 0 20px #282be2;
+    border: 1px solid #282be2;
 }
 
 .item i{
